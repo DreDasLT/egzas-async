@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bandymas", "Bandymas\Bandymas.vcxproj", "{51229E5D-1E5C-402F-A928-0BF33FD96B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51229E5D-1E5C-402F-A928-0BF33FD96B6A}.Debug|x64.ActiveCfg = Debug|x64
+		{51229E5D-1E5C-402F-A928-0BF33FD96B6A}.Debug|x64.Build.0 = Debug|x64
+		{51229E5D-1E5C-402F-A928-0BF33FD96B6A}.Release|x64.ActiveCfg = Release|x64
+		{51229E5D-1E5C-402F-A928-0BF33FD96B6A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEAE4F2F-85F4-4EA5-AA1B-1B90BAC845E1}
+	EndGlobalSection
+EndGlobal
